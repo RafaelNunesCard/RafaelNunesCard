@@ -21,6 +21,5 @@
 
 ###
 
-<p align="left">Olá eu sou Rafael Nunes Cardoso estou no 1° Ano do Médio.</p>
 
 ###
