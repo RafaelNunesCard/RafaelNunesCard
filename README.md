@@ -1,23 +1,49 @@
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4a0074&section=header"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelNunesCard&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelNunesCard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://media.tenor.com/iGSsICUR-2oAAAAj/mewtwo-sprite.gif"/>
+</div>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&pause=1000&color=B131FA&center=true&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+reposit%C3%B3rio;Eu+sou+Rafael+Nunes+Cardoso+)](https://git.io/typing-svg)
+<br>
+<br>
+
+<div aling="cemter">
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelNunesCard&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelNunesCard&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelNunesCard&theme=jolly&utcOffset=8) |
+  | :-: | :-: | :-: |
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelNunesCard&theme=jolly) |[![](https://github-readme-streak-stats.herokuapp.com?user=RafaelNunesCard&theme=jolly&hide_border=true)](https://git.io/streak-stats)|
+  | :-: | :-: |
 </div>
 
-###
+<div align="center">
+<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyczZrMnU2amdmaGRkZWx4bzRxZjc4a2toYTRoMWdrNjdwOWV1bDlvMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif"/>
+<br>
+<br>
 
-<br clear="both">
+![Static Badge](https://img.shields.io/badge/Instagram-B131FA?style=for-the-badge&logo=instagram)
+![Static Badge](https://img.shields.io/badge/Gmail-B131FA?style=for-the-badge&logo=gmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LinkedIn-B131FA?style=for-the-badge&logo=LinkedIn&logoColor=white)<br>
+![Static Badge](https://img.shields.io/badge/Discord-B131FA?style=for-the-badge&logo=Discord&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Whatsapp-B131FA?style=for-the-badge&logo=Whatsapp&logoColor=white)
 
 
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<br>
+  
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
 </div>
 
+<br>
+
+<div align="center">
+<br>
+  
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRafaelNunesCard&s=40&c=ae00ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4a0074&section=footer"/>
