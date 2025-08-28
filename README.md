@@ -4,8 +4,9 @@
 <img src="https://media.tenor.com/iGSsICUR-2oAAAAj/mewtwo-sprite.gif"/>
 </div>
 <br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&pause=1000&color=B131FA&center=true&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+reposit%C3%B3rio;Eu+sou+Rafael+Nunes+Cardoso+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&pause=1000&color=B131FA&center=true&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+GitHub;Eu+sou+Rafael+Nunes+Cardoso+)](https://git.io/typing-svg)
 <br>
 <br>
 
