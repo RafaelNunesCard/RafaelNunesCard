@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4a0074&section=header"/>
 
 <div align="center">
-<img src="https://media.tenor.com/iGSsICUR-2oAAAAj/mewtwo-sprite.gif"/>
+<img src="https://i.pinimg.com/originals/d2/11/0c/d2110c50a22020900743aaad39091499.gif"/>
 </div>
 <br>
 <br>
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyczZrMnU2amdmaGRkZWx4bzRxZjc4a2toYTRoMWdrNjdwOWV1bDlvMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif"/>
+<img height="200" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"/>
 <br>
 <br>
 
