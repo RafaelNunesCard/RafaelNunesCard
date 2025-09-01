@@ -26,6 +26,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Instagram-B131FA?style=for-the-badge&logo=instagram)
 ![Static Badge](https://img.shields.io/badge/Gmail-B131FA?style=for-the-badge&logo=gmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pinterest-B131FA?style=for-the-badge&logo=Pinterest)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-B131FA?style=for-the-badge&logo=LinkedIn&logoColor=white)<br>
 ![Static Badge](https://img.shields.io/badge/Discord-B131FA?style=for-the-badge&logo=Discord&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Whatsapp-B131FA?style=for-the-badge&logo=Whatsapp&logoColor=white)
