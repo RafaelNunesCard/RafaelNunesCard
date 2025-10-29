@@ -43,10 +43,5 @@
 
 <br>
 
-<div align="center">
-<br>
-  
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRafaelNunesCard&s=40&c=ae00ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4a0074&section=footer"/>
