@@ -42,7 +42,18 @@
   <img width="53" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png"/>
 
 <br>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B131FA&repeat=false&width=55&lines=IDEs)](https://git.io/typing-svg)
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)]()
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
+<br>
+<br>
+
+[![Hits](https://hits.sh/github.com/RafaelNunesCard.svg?style=for-the-badge&label=Visits&color=B131FA&labelColor=222)](https://hits.sh/github.com/RafaelNunesCard/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4a0074&section=footer"/>
 </div>
