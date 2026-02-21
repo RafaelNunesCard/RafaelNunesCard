@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,markdown"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,markdown"/><br>
 <img src="https://skillicons.dev/icons?i=php,python,dart,flutter"/>
 
 <br><br>
