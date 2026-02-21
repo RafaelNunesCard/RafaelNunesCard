@@ -37,10 +37,8 @@
 
 <br>
 
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
-<img width="53" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,markdown"/><br>
+<img src="https://skillicons.dev/icons?i=php,python,dart,flutter"/>
 
 <br><br>
 
