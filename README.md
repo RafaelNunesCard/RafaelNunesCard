@@ -8,10 +8,10 @@
 
 <br><br>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelNunesCard&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelNunesCard&theme=jolly&utcOffset=8) |
+| | |
 | :-: | :-: |
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelNunesCard&theme=jolly)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelNunesCard&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelNunesCard&theme=jolly&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelNunesCard&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelNunesCard&theme=jolly) |
 
 <br>
 
