@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B131FA&width=510&lines=Hi%2C+I’m+Rafael+—+Welcome+to+my+repository!;Systems+Development+Student+|+16+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B131FA&width=510&lines=Hi%2C+I’m+Rafael+—+Welcome+to+my+repository!;Systems+Development+Student+|+17+years+old)](https://git.io/typing-svg)
 
 <br><br>
 
